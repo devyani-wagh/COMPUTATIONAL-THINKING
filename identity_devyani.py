@@ -4,7 +4,6 @@ print("Before:", id(x))
 x = 15
 print("After:", id(x))
 
-
 name = "Devyani"
 print("Before:", id(name))
 
@@ -19,3 +18,4 @@ nums.append(30)
 print("After:", id(nums))
 
 print("This is Version 2")
+
